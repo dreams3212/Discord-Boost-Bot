@@ -1,1 +1,2 @@
 Insert our tokens :D
+git clone https://github.com/Spinayy/Discord-Boost-Bot.git
